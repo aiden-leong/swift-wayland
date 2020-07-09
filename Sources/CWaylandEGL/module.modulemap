@@ -1,0 +1,4 @@
+module CWaylandEGL [system] {
+  umbrella header "shim.h"
+  export *
+}

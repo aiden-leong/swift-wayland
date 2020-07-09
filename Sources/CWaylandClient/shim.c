@@ -1,0 +1,1 @@
+const struct wl_interface *wl_compositor_interface_ptr = &wl_compositor_interface;

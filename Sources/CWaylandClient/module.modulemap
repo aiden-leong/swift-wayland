@@ -1,0 +1,4 @@
+module CWaylandClient [system] {
+  umbrella header "shim.h"
+  export *
+}
